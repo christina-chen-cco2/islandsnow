@@ -1,0 +1,30 @@
+.colorblocktop {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#first-menu {
+  background-color: #F7F7F7;
+  box-shadow: none;
+  border: none;
+}
+
+#second-menu {
+  background-color: #FFFFFF;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.centered.grid.container {
+  margin: 10px;
+}
+
+.first-block {
+  width: 550px;
+  height: 350px;
+}
+
+.second-block {
+  width: 230px;
+  height: 200px;
+}
